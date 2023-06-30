@@ -1,6 +1,6 @@
-let str = "srinivas"
+let str1 = "srinivas"
 
-console.log(str)
+console.log(str1)
 
 let names : string[] = ["sri", "nivas", "raju", "somu"];
 let names1 : Array<string> = ["sri", "nivas", "raju", "somu"];
@@ -16,10 +16,10 @@ for(let k in Items) {
 }
 console.log(names, names1, items, Items);
 
-let arr: number[] = [1,2,3,4,5,6,7,3,4];
+let arr1: number[] = [1,2,3,4,5,6,7,3,4];
 let array: Array<number> = [1,2,3,4,5,6,7,3,4];
-for(let i= 0; i < arr.length; i++){
-    console.log(arr[i])
+for(let i= 0; i < arr1.length; i++){
+    console.log(arr1[i])
     }
 
 let multarray : number[][] = [[1,2], [3,4],[5,6]];
