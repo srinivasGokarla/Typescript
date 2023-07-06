@@ -19,7 +19,7 @@ function addElementsIfGreater(inputArray) {
   
   // Example usage:
   let inputArray = [3, 5, 7, 50];
-  let outputArray = addElementsIfGreater(inputArray);
+ // let outputArray = addElementsIfGreater(inputArray);
   
   console.log(outputArray);
   // let sum = inputArray[0]
