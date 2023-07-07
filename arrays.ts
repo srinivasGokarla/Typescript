@@ -16,7 +16,7 @@ for(let k in Items) {
 }
 console.log(names, names1, items, Items);
 
-let arr1: number[] = [1,2,3,4,5,6,7,3,4];
+let array1: number[] = [1,2,3,4,5,6,7,3,4];
 let array: Array<number> = [1,2,3,4,5,6,7,3,4];
 for(let i= 0; i < arr1.length; i++){
     console.log(arr1[i])
